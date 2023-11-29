@@ -17,7 +17,7 @@ I'm a first-year student of cross-platform application development at the CIDE c
 
 ## | I’m interested in ... 👀 | 
 
-What I like the most is the creation and design of web pages, I really like the aesthetics and decoration. I love playing with colors, fonts, images and effects to create attractive and original websites.
+What I like the most is the **creation and design of web pages**, I really like the aesthetics and decoration. I love playing with colors, fonts, images and effects to create attractive and **original websites**.
 
 ## | Contact 📮 | 
 
