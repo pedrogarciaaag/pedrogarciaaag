@@ -1,5 +1,4 @@
 <h1> Hi, I'm Pedro <img src="https://i.pinimg.com/originals/5e/48/c6/5e48c6ed0db25888e85f537b64e86b9c.gif" width="100"></h1>
-<img align='right' src="https://art.pixilart.com/sr2712ab0b35ecd.gif" width="230">
 <p><em>A first-year student in <b>Multiplatform Aplications Development</b> at <a href="http://www.cide.es">CIDE</a></em></p>
 
 ### 🧠 A little more about me...  
@@ -21,6 +20,11 @@ public class Skills  {
   MarkupLanguages  = ["Python","Kotlin","IntelliJ IDEA"];
 }
 ```
+
+---
+
+<img align='right' src="https://art.pixilart.com/sr2712ab0b35ecd.gif" width="230">
+
 ### 🛠️ Projects I have done
 
 <ul>
