@@ -30,6 +30,5 @@ public class Skills  {
 
 ### 📫 How to reach me  
 
-If you want to know more about me or my projects, you can contact me through: 
 - My personal email: [pedrogarciaaag@gmail.com]. 
 - My tutor's email: [miguel.beltran@cide.es]. 
