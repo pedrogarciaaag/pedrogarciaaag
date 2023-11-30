@@ -2,7 +2,7 @@
 <img align='right' src="https://art.pixilart.com/sr2712ab0b35ecd.gif" width="230">
 <p><em>A first-year student in <b>Multiplatform Aplications Development</b> at <a href="http://www.cide.es">CIDE</a></em></p>
 
-### A little more about me...  
+### 🧠 A little more about me...  
 
 ```javascript
 import MultiplatformAplicationsDevelopment from 'pedrogarciaaag';
