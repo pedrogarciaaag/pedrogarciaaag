@@ -29,7 +29,7 @@ public class Skills  {
 
 <ul>
   <li><a href="https://pedrogarciaaag.github.io/Lenguaje-de-marcas/Actividad_20/">Responsive web page</a></li>
-  <li><a href="">Monkey Island</a></li>
+  <li><a href="https://github.com/pedrogarciaaag/Programacion/blob/main/Proyecto1/src/proyecto1/Practica1.java">Monkey Island</a></li>
 </ul>
 
 ### 📫 How to reach me  
