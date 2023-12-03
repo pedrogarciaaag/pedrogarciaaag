@@ -10,7 +10,7 @@ public class Bio  {
   Name     = "Pedro García";
   Age      = "18";
   Location = "Palma, Mallorca";
-  Goal     = "Be a designer and creator of applications";
+  Goal     = "Be a creator and designer of multifunctional applications";
 }
 
 public class Skills  {
