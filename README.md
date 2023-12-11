@@ -16,8 +16,8 @@ public class Bio  {
 public class Skills  {
   Programming  = ["Java"];
   Databases  = ["Oracle"];
-  DevelopmentEnvironments  = ["HTML", "CSS , JS"];
-  MarkupLanguages  = ["Python","Kotlin","IntelliJ IDEA"];
+  MarkupLanguages  = ["HTML", "CSS , JS"];
+  DevelopmentEnvironments  = ["Python","Kotlin","IntelliJ IDEA"];
 }
 ```
 
