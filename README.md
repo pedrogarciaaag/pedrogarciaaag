@@ -30,7 +30,8 @@ public class Skills  {
 <ul>
   <li><a href="https://pedrogarciaaag.github.io/Lenguaje-de-marcas/Actividad_20/">Responsive web page</a></li>
   <li><a href="https://github.com/pedrogarciaaag/Programacion/blob/main/Proyecto1/src/proyecto1/Practica1.java">Monkey Island</a></li>
-  <li><a href="https://github.com/pedrogarciaaag/Entorns-de-desenvolupament/tree/main/Juego02"> Space Invaders</a> (Currently working...)</li>
+  <li><a href="https://github.com/pedrogarciaaag/Entorns-de-desenvolupament/tree/main/Juego02"> Space Invaders PyGame</a></li>
+  <li><a href="https://github.com/pedrogarciaaag/Entorns-de-desenvolupament/tree/main/Juego03"></a>Dragon Ball PyGame (Currently working ...)</li>
 </ul>
 
 ### 📫 How to reach me  
