@@ -31,8 +31,8 @@ public class Skills  {
   <li><a href="https://pedrogarciaaag.github.io/Lenguaje-de-marcas/Actividad_27/">Responsive web page</a> HTML/CSS</li>
   <li><a href="https://github.com/pedrogarciaaag/Programacion/blob/main/Proyecto1/src/proyecto1/Practica1.java">Monkey Island</a> Java</li>
   <li><a href="https://github.com/pedrogarciaaag/Programacion/tree/main/EstanteriaPractica/src">EstanteriaApp</a> Java Classes</li>
-    <li><a href="https://github.com/pedrogarciaaag/Entorns-de-desenvolupament/tree/main/Juego02"> Space Invaders PyGame</a>Python3</li>
-  <li><a href="https://github.com/pedrogarciaaag/Entorns-de-desenvolupament/tree/main/Juego03">Dragon Ball PyGame</a> (Currently working...)</li>
+    <li><a href="https://github.com/pedrogarciaaag/Entorns-de-desenvolupament/tree/main/Juego02"> Space Invaders PyGame</a> Python</li>
+  <li><a href="https://github.com/pedrogarciaaag/Entorns-de-desenvolupament/tree/main/DragonBall2">Dragon Ball</a> Python/PyGame</li>
 </ul>
 
 ### 📫 How to reach me  
